@@ -1,0 +1,13 @@
+{
+    "Navbar": {
+        "dashboard": "اللوحة",
+        "logout": "تسجيل الخروج"
+    },
+    "Profile": {
+        "title": "الملف الشخصي"
+    },
+    "Sidebar": {
+        "title": "لوحة التحكم",
+        "settings": "الإعدادات"
+    }
+}

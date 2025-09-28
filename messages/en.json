@@ -1,0 +1,13 @@
+{
+    "Navbar": {
+        "dashboard": "Dashboard",
+        "logout": "Logout"
+    },
+    "Profile": {
+        "title": "Profile"
+    },
+    "Sidebar": {
+        "title": "Dashboard",
+        "settings": "Settings"
+    }
+}
